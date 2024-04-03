@@ -1,0 +1,966 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2024-03-15T07:17:47.725Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Unleashing the Power of Django: A Brief Overview",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2024-03-15T07:32:52.072Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Проверка URL в Django: Простота и Надежность",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2024-03-15T14:41:41.266Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Выпаривание как ингибитор",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2024-03-15T14:42:14.995Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Жидкий синтез: методология и особенности",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2024-03-15T14:42:58.536Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Вред долгого воздержания от группового секса",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2024-03-15T14:43:26.501Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "Где трава зеленее?",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2024-03-15T14:44:00.632Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": "Сколько китовьих глаз можно съесть за год",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2024-03-16T09:18:00.418Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Comment by хня on One more post",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2024-03-16T13:13:26.909Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "Comment by kjhkjh on Сколько китовьих глаз можно съесть за год",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\", \"Active\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2024-03-18T06:30:23.735Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Проверка URL в Django: Простота и Надежность",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2024-03-18T06:31:08.330Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Выпаривание как ингибитор",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2024-03-21T04:19:18.874Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "10",
+    "object_repr": "Markdown post",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2024-03-21T04:30:15.146Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "10",
+    "object_repr": "Markdown post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2024-03-21T04:58:05.199Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "localhost:8000",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add post",
+    "content_type": 7,
+    "codename": "add_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change post",
+    "content_type": 7,
+    "codename": "change_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete post",
+    "content_type": 7,
+    "codename": "delete_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view post",
+    "content_type": 7,
+    "codename": "view_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add comment",
+    "content_type": 8,
+    "codename": "add_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change comment",
+    "content_type": 8,
+    "codename": "change_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete comment",
+    "content_type": 8,
+    "codename": "delete_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view comment",
+    "content_type": 8,
+    "codename": "view_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add tag",
+    "content_type": 9,
+    "codename": "add_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change tag",
+    "content_type": 9,
+    "codename": "change_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete tag",
+    "content_type": 9,
+    "codename": "delete_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view tag",
+    "content_type": 9,
+    "codename": "view_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add tagged item",
+    "content_type": 10,
+    "codename": "add_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change tagged item",
+    "content_type": 10,
+    "codename": "change_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete tagged item",
+    "content_type": 10,
+    "codename": "delete_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view tagged item",
+    "content_type": 10,
+    "codename": "view_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add site",
+    "content_type": 11,
+    "codename": "add_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change site",
+    "content_type": 11,
+    "codename": "change_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete site",
+    "content_type": 11,
+    "codename": "delete_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view site",
+    "content_type": 11,
+    "codename": "view_site"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$uorkQhXNtVBzxj3Zqjc0l6$RULBCoIDDy4/fuSOXO0v44Rl7pSVufmbf28a5GNf9BE=",
+    "last_login": "2024-03-15T07:02:47.083Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "admin@admin.ru",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-03-15T07:01:49.260Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "blog",
+    "model": "post"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "blog",
+    "model": "comment"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "taggit",
+    "model": "tag"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "taggit",
+    "model": "taggeditem"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "sites",
+    "model": "site"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "7f4q789s07ebv4jq9ncvx3c8z1awk3g4",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlm28ZeSnjNYu-sFB5AtxUmFuDtESgHtm5n3EhnWpeZ18JynIk5Ci8PvhkAPbhsod2i3Lqm3ZZ5Qborc6ZCXXvh53t2_gwqjfmsT9dGaSFp5ZAwaoyP2hGxjYh0RgsegCjgoaJ1zyjBfHfpExQfySbw_4f44OQ:1rl1aZ:8XXCGJRbwA3vh2v23Sb1jT0lc5P34IeqK1iLUspOQpk",
+    "expire_date": "2024-03-29T07:02:47.091Z"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 1,
+  "fields": {
+    "title": "Unleashing the Power of Django: A Brief Overview",
+    "slug": "unleashing-power-django-overview",
+    "author": 1,
+    "body": "In the vast landscape of web development frameworks, Django stands out as a robust, versatile, and reliable tool for building web applications swiftly and securely. Developed in Python, Django has garnered immense popularity for its simplicity, scalability, and the comprehensive set of features it offers to developers. Let's take a closer look at what makes Django such a compelling choice for developers worldwide.\r\n\r\nThe MVC Architecture:\r\nAt the heart of Django lies the Model-View-Controller (MVC) architectural pattern, which promotes a clean separation of concerns. In Django's case, this translates to Models for data management, Views for handling user interface logic, and Templates for rendering HTML content. This organized structure enhances code maintainability and facilitates collaborative development.\r\n\r\nBatteries-Included Philosophy:\r\nOne of Django's most celebrated attributes is its \"batteries-included\" philosophy. Django comes bundled with a plethora of built-in features, including authentication, URL routing, form handling, and database migrations, among others. This eliminates the need for developers to integrate disparate libraries or tools, streamlining the development process and reducing overhead.\r\n\r\nORM and Database Abstraction:\r\nDjango's Object-Relational Mapping (ORM) system simplifies database interactions by abstracting away the complexities of SQL queries. Developers can define database models using Python classes, allowing for seamless manipulation of data without writing raw SQL code. Moreover, Django supports multiple database backends, including PostgreSQL, MySQL, SQLite, and Oracle, providing flexibility and scalability for diverse project requirements.\r\n\r\nBuilt-in Security Features:\r\nSecurity is paramount in web development, and Django takes this aspect seriously. The framework offers built-in protection against common security threats, such as SQL injection, cross-site scripting (XSS), cross-site request forgery (CSRF), and clickjacking. Additionally, Django's authentication system provides robust user authentication and authorization mechanisms out of the box, ensuring that applications remain secure by default.\r\n\r\nScalability and Performance:\r\nDjango's architecture is designed to support the development of scalable and high-performance web applications. With features like caching, session management, and database connection pooling, Django empowers developers to optimize application performance effortlessly. Furthermore, Django's built-in administrative interface, known as the Django Admin, accelerates development by providing a ready-made interface for managing application data.\r\n\r\nThriving Ecosystem and Community:\r\nDjango boasts a vibrant ecosystem comprising a vast array of third-party packages, extensions, and libraries contributed by the open-source community. These resources extend Django's functionality and cater to diverse use cases, ranging from content management systems and e-commerce platforms to APIs and real-time applications. Additionally, Django's active community fosters collaboration, knowledge sharing, and continuous improvement, ensuring that the framework remains relevant and up-to-date.\r\n\r\nConclusion:\r\nIn summary, Django encapsulates the essence of efficient and pragmatic web development. Its adherence to best practices, coupled with its comprehensive feature set and vibrant community, makes it an ideal choice for building web applications of any scale or complexity. Whether you're a seasoned developer or a novice exploring the world of web development, Django empowers you to bring your ideas to life with unparalleled ease and efficiency.",
+    "publish": "2024-03-15T07:14:35Z",
+    "created": "2024-03-15T07:17:47.720Z",
+    "updated": "2024-03-15T07:17:47.721Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 2,
+  "fields": {
+    "title": "Проверка URL в Django: Простота и Надежность",
+    "slug": "proverka-url-v-django-prostota-i-nadezhnost",
+    "author": 1,
+    "body": "В мире веб-разработки, где точность и безопасность играют решающую роль, Django выделяется своей простотой и эффективностью в проверке URL. Django, фреймворк, разработанный на Python, предлагает интуитивно понятные и мощные инструменты для обработки запросов к веб-приложениям.\r\n\r\nМаршрутизация URL:\r\nВ Django, маршрутизация URL осуществляется с помощью механизма маршрутов (URL patterns). Это позволяет разработчикам легко настраивать, как входящие URL будут обрабатываться и направляться к соответствующим представлениям (views). Django предлагает простой и интуитивно понятный синтаксис для определения маршрутов, что упрощает поддержку и расширение веб-приложения.\r\n\r\nПроверка безопасности URL:\r\nБезопасность является приоритетом в Django, и проверка URL не является исключением. Django предоставляет механизмы для защиты от уязвимостей, таких как нежелательные перенаправления (unvalidated redirects) или атаки на основе URL (URL-based attacks). Использование встроенных инструментов, таких как маршруты с указанием аргументов, помогает обеспечить безопасность при обработке входящих URL.\r\n\r\nПростота использования и конфигурации:\r\nОдним из основных преимуществ Django является его простота использования и конфигурации. Механизм маршрутизации URL предоставляет гибкие инструменты для определения URL-адресов и их обработки, что позволяет разработчикам быстро и легко создавать и поддерживать веб-приложения.\r\n\r\nЗаключение:\r\nВ целом, проверка URL в Django представляет собой простой и надежный процесс, который обеспечивает безопасность и эффективность обработки входящих запросов. С использованием механизма маршрутизации URL и встроенных механизмов безопасности, Django упрощает создание надежных и безопасных веб-приложений, соответствующих самым высоким стандартам качества и производительности.",
+    "publish": "2024-03-15T07:30:19Z",
+    "created": "2024-03-15T07:32:52.068Z",
+    "updated": "2024-03-18T06:30:23.720Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 4,
+  "fields": {
+    "title": "One more post",
+    "slug": "one-more-post",
+    "author": 1,
+    "body": "Post body.",
+    "publish": "2024-03-15T07:46:29.708Z",
+    "created": "2024-03-15T07:46:29.709Z",
+    "updated": "2024-03-15T07:46:29.709Z",
+    "status": "DF"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 5,
+  "fields": {
+    "title": "Выпаривание как ингибитор",
+    "slug": "vyparivanie-kak-ingibitor",
+    "author": 1,
+    "body": "Выпаривание – процесс, используемый в химической промышленности для концентрирования растворов путем удаления растворителя. Однако, в некоторых случаях, выпаривание может также играть роль ингибитора реакции. Изучение этого явления позволяет развивать новые методы контроля химических процессов и оптимизировать технологии производства.",
+    "publish": "2024-03-15T14:37:07Z",
+    "created": "2024-03-15T14:41:41.261Z",
+    "updated": "2024-03-18T06:31:08.319Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 6,
+  "fields": {
+    "title": "Жидкий синтез: методология и особенности",
+    "slug": "zhidkij-sintez-metodologiya-i-osobennosti",
+    "author": 1,
+    "body": "Жидкий синтез – это метод химического синтеза, при котором реакции происходят в жидкой среде. Этот подход позволяет улучшить реакционные условия, обеспечить более равномерное распределение реагентов и продуктов, а также снизить токсичность реакционных условий. Ознакомьтесь с методологией и особенностями данного метода в нашей статье.",
+    "publish": "2024-03-15T14:41:45Z",
+    "created": "2024-03-15T14:42:14.992Z",
+    "updated": "2024-03-15T14:42:14.992Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 7,
+  "fields": {
+    "title": "Вред долгого воздержания от группового секса",
+    "slug": "vred-dolgogo-vozderzhaniya-ot-gruppovogo-seksa",
+    "author": 1,
+    "body": "Исследования показывают, что долгосрочное воздержание от секса в групповых ситуациях может привести к негативным последствиям для психического и физического здоровья. В этой статье мы рассмотрим потенциальные вредные эффекты и важность здоровых сексуальных практик для общего благополучия.",
+    "publish": "2024-03-15T14:42:18Z",
+    "created": "2024-03-15T14:42:58.532Z",
+    "updated": "2024-03-15T14:42:58.532Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 8,
+  "fields": {
+    "title": "Где трава зеленее?",
+    "slug": "gde-trava-zelenee",
+    "author": 1,
+    "body": "Вечный вопрос о том, где жизнь лучше – в городе или за городом. Для многих это вопрос выбора места жительства, работы и отдыха. Мы рассмотрим различные аспекты жизни в городе и за его пределами, чтобы помочь вам принять более обоснованное решение.",
+    "publish": "2024-03-15T14:43:01Z",
+    "created": "2024-03-15T14:43:26.498Z",
+    "updated": "2024-03-15T14:43:26.498Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 9,
+  "fields": {
+    "title": "Сколько китовьих глаз можно съесть за год",
+    "slug": "skolko-kitovih-glaz-mozhno-sest-za-god",
+    "author": 1,
+    "body": "Экзотическая кухня часто вызывает любопытство и вопросы о еде, которая может показаться странной для многих. В этой статье мы рассмотрим необычный вопрос о том, сколько китовьих глаз можно съесть за год, и рассмотрим культурные и пищевые аспекты этого явления.",
+    "publish": "2024-03-15T14:43:29Z",
+    "created": "2024-03-15T14:44:00.629Z",
+    "updated": "2024-03-15T14:44:00.629Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 10,
+  "fields": {
+    "title": "Markdown post",
+    "slug": "markdown-post",
+    "author": 1,
+    "body": "This is a post formatted with markdown\r\n\r\n--------------------------------------\r\n\r\n*This is emphasized* and **this is more emphasized**.\r\n\r\nHere is a list:\r\n\r\n* One\r\n\r\n* Two\r\n\r\n* Three\r\n\r\n \r\n\r\nAnd a [link to the Django website](https://www.djangoproject.com/)",
+    "publish": "2024-03-21T04:17:39Z",
+    "created": "2024-03-21T04:19:18.846Z",
+    "updated": "2024-03-21T04:30:15.136Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 1,
+  "fields": {
+    "post": 4,
+    "name": "хня",
+    "email": "kopo@poi.com",
+    "body": "Хня какая-то",
+    "created": "2024-03-16T09:18:00.415Z",
+    "updated": "2024-03-16T09:18:00.415Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 2,
+  "fields": {
+    "post": 9,
+    "name": "kjhkjh",
+    "email": "iuy@uyt.com",
+    "body": "akcpdpakdkjljlkj",
+    "created": "2024-03-16T13:10:51.289Z",
+    "updated": "2024-03-16T13:13:26.905Z",
+    "active": false
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 3,
+  "fields": {
+    "post": 9,
+    "name": "jafkaj",
+    "email": "qwe@wr.com",
+    "body": "sdkfslkfmls'kf",
+    "created": "2024-03-16T13:11:20.038Z",
+    "updated": "2024-03-16T13:11:20.038Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 4,
+  "fields": {
+    "post": 8,
+    "name": "dadkj",
+    "email": "dasdm@aalksd.com",
+    "body": "ckpasdkpaokda",
+    "created": "2024-03-16T13:12:04.441Z",
+    "updated": "2024-03-16T13:12:04.441Z",
+    "active": true
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 1,
+  "fields": {
+    "name": "gjango",
+    "slug": "gjango"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 2,
+  "fields": {
+    "name": "music",
+    "slug": "music"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 3,
+  "fields": {
+    "name": "jazz",
+    "slug": "jazz"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 4,
+  "fields": {
+    "name": "markdown",
+    "slug": "markdown"
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 1,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 3,
+  "fields": {
+    "tag": 3,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 4,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 2
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 5,
+  "fields": {
+    "tag": 3,
+    "content_type": 7,
+    "object_id": 2
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 6,
+  "fields": {
+    "tag": 3,
+    "content_type": 7,
+    "object_id": 5
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 7,
+  "fields": {
+    "tag": 4,
+    "content_type": 7,
+    "object_id": 10
+  }
+},
+{
+  "model": "sites.site",
+  "pk": 1,
+  "fields": {
+    "domain": "localhost:8000",
+    "name": "localhost:8000"
+  }
+}
+]
